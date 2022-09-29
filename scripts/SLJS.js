@@ -148,5 +148,5 @@ function myAlert() {
 }
 setInterval(myAlert, 3000);
 
-//Oбъект Date
+//Oбъект Dates
 
